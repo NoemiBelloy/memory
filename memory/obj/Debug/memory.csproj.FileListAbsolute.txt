@@ -1,0 +1,2 @@
+C:\Users\Sofie\Documents\2MCT\memory\memory\memory\memory\bin\Debug\memory.exe.config
+C:\Users\Sofie\Desktop\memory\memory\bin\Debug\memory.exe.config
