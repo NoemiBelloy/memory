@@ -1,2 +1,12 @@
 C:\Users\Sofie\Documents\2MCT\memory\memory\memory\memory\bin\Debug\memory.exe.config
 C:\Users\Sofie\Desktop\memory\memory\bin\Debug\memory.exe.config
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\bin\Debug\memory.exe.config
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\bin\Debug\memory.exe
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\bin\Debug\memory.pdb
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\obj\Debug\memory.csprojResolveAssemblyReference.cache
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\obj\Debug\memory.Form1.resources
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\obj\Debug\memory.KaartView.resources
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\obj\Debug\memory.Properties.Resources.resources
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\obj\Debug\memory.csproj.GenerateResource.Cache
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\obj\Debug\memory.exe
+C:\Users\Sofie\Documents\2MCT\Software Engineering\memory\memory\obj\Debug\memory.pdb

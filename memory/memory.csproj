@@ -52,19 +52,21 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="kaartView.cs">
+    <Compile Include="KaartController.cs" />
+    <Compile Include="KaartModel.cs" />
+    <Compile Include="KaartView.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="kaartView.Designer.cs">
-      <DependentUpon>kaartView.cs</DependentUpon>
+    <Compile Include="KaartView.Designer.cs">
+      <DependentUpon>KaartView.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="kaartView.resx">
-      <DependentUpon>kaartView.cs</DependentUpon>
+    <EmbeddedResource Include="KaartView.resx">
+      <DependentUpon>KaartView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
