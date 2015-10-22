@@ -1,6 +1,6 @@
 ﻿namespace memory
 {
-    partial class kaartView
+    partial class KaartView
     {
         /// <summary> 
         /// Required designer variable.
@@ -35,6 +35,7 @@
             // 
             this.memoryKaart.AutoSize = true;
             this.memoryKaart.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.memoryKaart.ForeColor = System.Drawing.Color.Black;
             this.memoryKaart.Location = new System.Drawing.Point(43, 46);
             this.memoryKaart.MaximumSize = new System.Drawing.Size(2000, 2000);
             this.memoryKaart.Name = "memoryKaart";
@@ -44,13 +45,14 @@
             this.memoryKaart.Text = "afb1";
             this.memoryKaart.Click += new System.EventHandler(this.label1_Click);
             // 
-            // kaartView
+            // KaartView
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.memoryKaart);
-            this.Name = "kaartView";
+            this.Name = "KaartView";
             this.Size = new System.Drawing.Size(194, 181);
+            this.Load += new System.EventHandler(this.kaartView_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
